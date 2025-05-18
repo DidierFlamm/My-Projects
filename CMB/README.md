@@ -1,1 +1,1 @@
-Practices and Project - class Programmation - Master CMB
+Practices and Project - Programming and algorithms - Master CMB
