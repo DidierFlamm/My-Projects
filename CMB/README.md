@@ -1,1 +1,1 @@
-TP and Project - class Programmation - Master CMB
+Practices and Project - class Programmation - Master CMB
